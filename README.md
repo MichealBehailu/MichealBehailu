@@ -52,7 +52,7 @@ I specialize in building responsive, scalable, and maintainable solutions. Hereâ
 
 Here are a few of my favorite projects:
 
-- **[Well-Talk]([https://github.com/your-username/project-repo](https://github.com/abey-asmare/well.git))**  
+- **[Well-Talk](https://github.com/your-username/project-repo](https://github.com/abey-asmare/well.git)**  
    *Technologies: Html,Css,NodeJS,Tailwind,Bootstrap,Laravel*  
    A full-featured health consultancy app to boost productivity and streamline workflows.
 
